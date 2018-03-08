@@ -1,0 +1,18 @@
+﻿html, body {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.gantt_grid, .gantt_task {
+    min-height:49px;
+}
+
+.width50 {
+    width:50px !important;
+}
+
+.gantt_blank{
+    width:0 !important;
+}
